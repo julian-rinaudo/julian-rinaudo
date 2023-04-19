@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<h1 align="center">Hi there 👋</h1>
+<div>
+<img src="https://drive.google.com/file/d/1jxDz0D_i6kd00N4siAE7GXOsm1kxFZBx/view?usp=sharing">
+</div>
 <!--
 **julian-rinaudo/julian-rinaudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
