@@ -14,15 +14,19 @@
   <img src="https://img.shields.io/badge/Focus-Front%20End%20Development-dodgerblue" />
 </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+   <h1>Soy un Full Stack Developer de 22 años</h1>
+    <p>Con preferencia al Front End, el cual estudió una Tecnicatura en Comercialización y Marketing y por cuestiones de la vida se topó con cursos de programación. En donde se dio cuenta que crear cosas a través de código y pasar muchas horas en la computadora lo hacía más feliz, que lo que venía haciendo.</p>
+    <p>Fue así como me inscribí y cursé de forma exitosa un Coding Bootcamp Full Stack de Javascript +800hs.</p>
+    <p>En donde además de aprender un montón de diversas tecnologías que utiliza la industria, trabajé por primera vez con equipos en varios proyectos, haciendo mucho énfasis en habilidades blandas y Metodología SCRUM.</p>
+    
+     <ul>
+        <li>Trabajo en equipo</li>
+        <li>Comunicación efectiva</li>
+        <li>Resolución de problemas</li>
+        <li>Pensamiento crítico</li>
+        <li>Adaptabilidad</li>
+      </ul>
+    </ul>
 
 <br>
 
@@ -59,4 +63,22 @@
     <img src="https://user-images.githubusercontent.com/64439609/212556741-81407849-82c8-4926-854f-820e8a644375.png" width="40" height="40" alt="Git"/>
     <img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" width="40" height="40" alt="Git"/>
     <img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40" height="40" alt="Git"/>
+<br>
+ <h3 align="center" >¡Gracias por leer mi README! Si estás interesado en conocer más sobre mí o mi trabajo, por favor no dudes en contactarme. 🤝 </h3>
 
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a   target="_blank" href="https://www.linkedin.com/in/](https://www.linkedin.com/in/julian-rinaudo/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" style="margin-left: 10px;" ></a>
+        <a style="margin-left: 10px;" target="_blank" href="">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+           <a style="margin-left: 10px;" target="_blank" href="https://">
+		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
+		<a style="margin-left: 10px;" target="_blank" href="">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+		<a style="margin-left: 5px;" target="_blank" href="">
+					<img src="https://img.icons8.com/ultraviolet/2x/resume.png" style=" width:37px; height:40px;"></a>
+      </div>
+
+</p>
