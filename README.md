@@ -3,11 +3,10 @@
 <img src="./banner/Black Technology LinkedIn Banner (1).png" alt="banner"/>
 </div>
 
+
 <br>
  
  ## <picture><img src ="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>  Sobre mi 
-
-
  
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
