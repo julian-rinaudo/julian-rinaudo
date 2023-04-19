@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hola, gusto en conocerte!! 👋</h1>
 <div>
 <img src="https://drive.google.com/file/d/1jxDz0D_i6kd00N4siAE7GXOsm1kxFZBx/view?usp=sharing">
 </div>
