@@ -1,6 +1,6 @@
 <h1 align="center">Hola, gusto en conocerte!! 👋</h1>
 <div>
-<img src="https://drive.google.com/file/d/1jxDz0D_i6kd00N4siAE7GXOsm1kxFZBx/view?usp=sharing">
+<img src="./banner/Black Technology LinkedIn Banner (1).png" alt="banner">
 </div>
 <!--
 **julian-rinaudo/julian-rinaudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
