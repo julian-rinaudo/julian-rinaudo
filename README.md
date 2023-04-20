@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Focus-Front%20End%20Development-dodgerblue" />
 </p>
 
-   <h1>Soy un Full Stack Developer de 22 años</h1>
+   <h1>Soy un Desarrollador de 22 años</h1>
     <p>Con preferencia al Front End, el cual estudió una Tecnicatura en Comercialización y Marketing y por cuestiones de la vida se topó con cursos de programación. En donde se dio cuenta que crear cosas a través de código y pasar muchas horas en la computadora lo hacía más feliz, que lo que venía haciendo.</p>
     <p>Fue así como me inscribí y cursé de forma exitosa un Coding Bootcamp Full Stack de Javascript +800hs.</p>
     <p>En donde además de aprender un montón de diversas tecnologías que utiliza la industria, trabajé por primera vez con equipos en varios proyectos, haciendo mucho énfasis en habilidades blandas y Metodología SCRUM.</p>
